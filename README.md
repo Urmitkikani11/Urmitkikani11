@@ -45,7 +45,11 @@ I am **Urmit Kikani**, an aspiring technologist pursuing a **B.Tech in Electroni
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Urmitkikani11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=urmitkikani11&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
 
 ---
 
