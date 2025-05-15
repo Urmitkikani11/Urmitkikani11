@@ -44,17 +44,13 @@ I am **Urmit Kikani**, an aspiring technologist pursuing a **B.Tech in Electroni
 
 ---
 
-## 🏆 Achievements:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Urmitkikani11&theme=onestar&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Urmitkikani11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ### ✍️ Favorite Dev Quote:
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>  
+<div align="center" style="font-style: italic; color: #bbbbbb; max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> “VLSI design is where creativity meets precision to shape the future of technology.” </div>
 
 ---
 
