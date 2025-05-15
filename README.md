@@ -55,7 +55,5 @@ I am **Urmit Kikani**, an aspiring technologist pursuing a **B.Tech in Electroni
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Urmitkikani11&icon=10&color=8" alt="Profile Views" />
-</div>  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img src="https://komarev.com/ghpvc/?username=urmitkikani11&color=yellow" alt="Profile Views"/>
+</div>
