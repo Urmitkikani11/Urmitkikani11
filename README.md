@@ -36,12 +36,12 @@
 
 ## 🎯 *Current Focus*
 
-* *Digital design & verification using* **Verilog/SystemVerilog**
-* *Exploring complete* **VLSI design flow**: *synthesis, STA, and DFT*
-* *Hands-on with* **testbench development**, **functional verification**, *and* **UVM**
-* *Building* **embedded system prototypes** *with real-world digital integration*
+* *Digital design & verification using Verilog/SystemVerilog*
+* *Exploring complete* *VLSI design flow*: *synthesis, STA, and DFT*
+* *Hands-on with* *testbench development*, *functional verification*, *and* *UVM*
+* *Building* *embedded system prototypes* *with real-world digital integration*
 
-*📚 Continuously learning the latest in* **semiconductor tech**, **EDA tools**, *and* **SoC design**
+*📚 Continuously learning the latest in* *semiconductor tech*, *EDA tools*, *and* *SoC design*
 
 ---
 
