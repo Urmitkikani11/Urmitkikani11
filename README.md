@@ -112,10 +112,10 @@
 
 ---
 
-### ✍️ *Favorite Dev Quote*
+### ✍️ *Favorite Dev Quote:*
 
 <div align="center" style="font-style: italic; color: #bbbbbb; max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">  
-*“VLSI design is where creativity meets precision to shape the future of technology.”*  
+“VLSI design is where creativity meets precision to shape the future of technology.”
 </div>  
 
 ---
