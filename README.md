@@ -71,7 +71,11 @@ A Python tool simulating gate-level circuits from ISCAS netlists, computing outp
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Urmitkikani11&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" />
+      <a href="https://github.com/Urmitkikani11">
+        <img alt="GitHub Stats" 
+          src="https://github-readme-stats.vercel.app/api?username=Urmitkikani11&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&card_width=400&hide=prs&show_lifetime=true" 
+          width="400" />
+      </a>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmitkikani11&theme=default&hide_border=true" alt="GitHub Streak" width="400" />
@@ -79,7 +83,7 @@ A Python tool simulating gate-level circuits from ISCAS netlists, computing outp
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmitkikani11&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmitkikani11&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
     </td>
   </tr>
 </table>
