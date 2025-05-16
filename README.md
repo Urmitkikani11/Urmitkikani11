@@ -48,19 +48,23 @@ My passion lies in **VLSI design**, **digital electronics**, **testing and verif
 
 ### [Lung-Nodule-Detection-in-MATLAB](https://github.com/Urmitkikani11/Lung-Nodule-Detection-in-MATLAB)  
 A MATLAB tool for lung nodule detection in CT scans, using image enhancement, noise reduction, edge detection, and segmentation. Its GUI simplifies early lung cancer diagnosis.  
----
+
+----
 ### [Fingerprint-Based-Biometric-Voting-System-Using-Arduino](https://github.com/Urmitkikani11/Fingerprint-Based-Biometric-Voting-System-Using-Arduino)  
 An Arduino-based fingerprint voting system ensuring secure, duplicate-free voting with LCD, LED, and buzzer feedback for results.  
----
+
+----
 ### [Water-flow-measurement-using-arduino](https://github.com/Urmitkikani11/Water-flow-measurement-using-arduino-)  
-Measures water flow with a YF-S201 sensor and Arduino Uno, displaying data on a 16x2 LCD. Includes code, diagrams, and documentation for easy setup in various applications.  
----
+Measures water flow with a YF-S201 sensor and Arduino Uno, displaying data on a 16x2 LCD. Includes code, diagrams, and documentation for easy setup in various applications.
+
+----
 ### [Analog-to-Digital-Converter-Interfacing-with-FPGA](https://github.com/Urmitkikani11/Analog-to-Digital-Converter-Interfacing-with-FPGA)  
 Connects an ADC0809 to an FPGA via Verilog to convert analog signals into digital data for processing, enabling seamless integration of sensors into digital systems.  
----
+
+----
 ### [Simulation-and-Boolean-Expression-Generation-from-ISCAS-Format-Gate-Level-Netlists](https://github.com/Urmitkikani11/Simulation-and-Boolean-Expression-Generation-from-ISCAS-Format-Gate-Level-Netlists)  
 A Python tool simulating gate-level circuits from ISCAS netlists, computing outputs and generating Boolean expressions to support learning and analysis.  
----
+
 ---
 ## 📊 GitHub Stats
 
