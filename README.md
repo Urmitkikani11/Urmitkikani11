@@ -5,12 +5,12 @@
 </div>  
 
 ---
-
 # 💫 About Me  
-I am **Urmit Kikani**, an aspiring technologist pursuing a **B.Tech in Electronics and Communication Engineering** with a **minor in Computer Science** at **Nirma University, Ahmedabad**.  
-My journey is fueled by a passion for **VLSI design**, **digital electronics**, and the exciting **intersection of hardware and software**. I thrive on continuous learning and innovation, constantly expanding my expertise in **emerging technologies** to contribute to impactful, scalable solutions in the field of electronics and communication.  
+I’m **Urmit Kikani**, pursuing a **B.Tech in Electronics and Communication Engineering** with a **minor in Computer Science** at **Nirma University, Ahmedabad**.  
+My passion lies in **VLSI design**, **digital electronics**, **testing and verification**, and the seamless integration of **hardware and software**. I enjoy working with **Verilog**, **SystemVerilog**, and **embedded systems** to build reliable and scalable electronic solutions.
 
----
+🔍 I’m also deeply interested in **verification design**, focusing on making sure designs work correctly and efficiently in real-world scenarios.
+
 
 ## 🌐 Connect with Me  
 
@@ -35,52 +35,53 @@ My journey is fueled by a passion for **VLSI design**, **digital electronics**, 
 
 ---
 
-## 🎯 Current Focus  
+## 🎯 Current Focus
 
-- VLSI Design & Digital Electronics  
-- AI-Driven Hardware & Embedded Systems  
-- Full-Stack Projects Integrating Hardware & Software  
-- Exploring FPGA, Verilog, and SystemVerilog for Real-World Applications  
+-  Digital design & verification using **Verilog/SystemVerilog**
+-  Exploring complete **VLSI design flow**: synthesis, STA, and DFT
+-  Hands-on with **testbench development**, **functional verification**, and **UVM**
+-  Building **embedded system prototypes** with real-world digital integration
 
----
+📚 Continuously learning the latest in **semiconductor tech**, **EDA tools**, and **SoC design**
 
-## 📚 Featured Projects  
+--- 
 
 ### [Lung-Nodule-Detection-in-MATLAB](https://github.com/Urmitkikani11/Lung-Nodule-Detection-in-MATLAB)  
 A MATLAB tool for lung nodule detection in CT scans, using image enhancement, noise reduction, edge detection, and segmentation. Its GUI simplifies early lung cancer diagnosis.  
-
+---
 ### [Fingerprint-Based-Biometric-Voting-System-Using-Arduino](https://github.com/Urmitkikani11/Fingerprint-Based-Biometric-Voting-System-Using-Arduino)  
 An Arduino-based fingerprint voting system ensuring secure, duplicate-free voting with LCD, LED, and buzzer feedback for results.  
-
+---
 ### [Water-flow-measurement-using-arduino](https://github.com/Urmitkikani11/Water-flow-measurement-using-arduino-)  
 Measures water flow with a YF-S201 sensor and Arduino Uno, displaying data on a 16x2 LCD. Includes code, diagrams, and documentation for easy setup in various applications.  
-
+---
 ### [Analog-to-Digital-Converter-Interfacing-with-FPGA](https://github.com/Urmitkikani11/Analog-to-Digital-Converter-Interfacing-with-FPGA)  
 Connects an ADC0809 to an FPGA via Verilog to convert analog signals into digital data for processing, enabling seamless integration of sensors into digital systems.  
-
+---
 ### [Simulation-and-Boolean-Expression-Generation-from-ISCAS-Format-Gate-Level-Netlists](https://github.com/Urmitkikani11/Simulation-and-Boolean-Expression-Generation-from-ISCAS-Format-Gate-Level-Netlists)  
 A Python tool simulating gate-level circuits from ISCAS netlists, computing outputs and generating Boolean expressions to support learning and analysis.  
+---
+---
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Urmitkikani11&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmitkikani11&theme=default&hide_border=true" alt="GitHub Streak" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmitkikani11&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" />
+    </td>
+  </tr>
+</table>
+
 
 ---
-
-## 📊 GitHub Stats  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Urmitkikani11&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" /><br />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmitkikani11&theme=radical&hide_border=true" alt="GitHub Streak" width="400" /><br />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmitkikani11&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" />  
-</div>  
-
----
-
-## 🏆 GitHub Trophies  
-
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=urmitkikani11&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />  
-</div>  
-
----
-
 ### ✍️ Favorite Dev Quote  
 
 <div align="center" style="font-style: italic; color: #bbbbbb; max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">  
