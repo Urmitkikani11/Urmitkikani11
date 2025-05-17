@@ -63,6 +63,11 @@
 *A MATLAB tool for lung nodule detection in CT scans, using image enhancement, noise reduction, edge detection, and segmentation. Its GUI simplifies early lung cancer diagnosis.*
 
 ---
+### *[Design and Implementation of a 32-bit 5-Stage Pipelined MiniMIPS Processor using Verilog  ](https://github.com/Urmitkikani11/Design-and-Implementation-of-a-32-bit-5-Stage-Pipelined-MiniMIPS-Processor-using-Verilog)*
+
+*A 32-bit 5-stage pipelined miniMIPS processor in Verilog with IF, ID, EX, MEM, and WB stages, featuring hazard detection, forwarding, and control logic. Simulated using ModelSim.*
+
+---
 
 ### *[Fingerprint-Based-Biometric-Voting-System-Using-Arduino](https://github.com/Urmitkikani11/Fingerprint-Based-Biometric-Voting-System-Using-Arduino)*
 
