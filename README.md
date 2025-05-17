@@ -98,11 +98,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Urmitkikani11">
-        <img alt="GitHub Stats" 
-          src="https://github-readme-stats.vercel.app/api?username=Urmitkikani11&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&card_width=400&hide=prs&show_lifetime=true" 
-          width="400" />
-      </a>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Urmitkikani11&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&card_width=400&hide=prs" width="400"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmitkikani11&theme=default&hide_border=true" alt="GitHub Streak" width="400" />
@@ -110,11 +106,10 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmitkikani11&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmitkikani11&theme=default&hide_border=true&layout=compact" width="400" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### ✍️ *Favorite Dev Quote:*
