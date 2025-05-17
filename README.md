@@ -7,7 +7,7 @@
 
 ---
 
-# 💫 *About Me...*
+# 💫 *About Me*
 
 *I’m Urmit Kikani, pursuing a **B.Tech in Electronics and Communication Engineering** with a minor in Computer Science at Nirma University, Ahmedabad.*
 *My passion lies in VLSI design, digital electronics, testing and verification, and the seamless integration of hardware and software. I enjoy working with Verilog, SystemVerilog, and embedded systems to build reliable and scalable electronic solutions.*
