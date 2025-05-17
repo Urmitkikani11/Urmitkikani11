@@ -110,6 +110,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### ✍️ *Favorite Dev Quote:*
